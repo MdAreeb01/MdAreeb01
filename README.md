@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohd Areeb
 
-<!--
-**MdAreeb01/MdAreeb01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Scientist | Power BI Developer | Data Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about turning data into actionable insights. Currently pursuing a Data Science certification from Cybrom Technology Pvt. Ltd. I enjoy building interactive dashboards, solving real-world problems with data, and exploring trends using visual storytelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tools & Skills
+- **Languages**: Python, SQL, DAX
+- **Visualization**: Power BI, Excel, Matplotlib, Seaborn
+- **Data Science**: Pandas, NumPy
+- **Version Control**: Git, GitHub
+
+---
+
+## 📊 Featured Projects
+
+- [Travel Management Dashboard]([https://github.com/MdAreeb01/Travel-Management-Analysis-])  
+  Interactive Power BI dashboard analyzing tourist behavior, demand trends, and revenue.
+
+---
+
+## 📫 Connect With Me
+- [LinkedIn](www.linkedin.com/in/mohd-areeb-189486286)
+- [Naukri.com](https://www.naukri.com/mnjuser/profile?id=&altresid)
+- Email: areebak12323@gmail.com
+
