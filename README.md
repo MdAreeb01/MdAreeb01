@@ -1,28 +1,103 @@
 # Hi, I'm Mohd Areeb
 
-Aspiring Data Scientist | Power BI Developer | Data Enthusiast
+### Python Developer | Data Analyst | Machine Learning Enthusiast | AI Application Developer
 
-I'm passionate about turning data into actionable insights. Currently pursuing a Data Science certification from Cybrom Technology Pvt. Ltd. I enjoy building interactive dashboards, solving real-world problems with data, and exploring trends using visual storytelling.
+I'm a **Computer Science & Engineering graduate** passionate about working with data, building machine learning solutions, and developing practical AI-powered applications.
+
+I enjoy transforming raw data into meaningful insights through **Python, SQL, Machine Learning, Power BI, and data visualization** — and turning those insights into interactive, deployable applications.
 
 ---
 
 ## Tools & Skills
-- **Languages**: Python, SQL, DAX
-- **Visualization**: Power BI, Excel, Matplotlib, Seaborn
-- **Data Science**: Pandas, NumPy
-- **Version Control**: Git, GitHub
+
+### Programming & Data
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-learn
+- **Data Analytics:** Data Cleaning, Data Preprocessing, EDA, Data Visualization
+
+### Machine Learning
+- **Supervised Learning**
+- **Unsupervised Learning**
+- **Reinforcement Learning**
+- **Classification & Regression**
+- **Predictive Modeling**
+
+### Business Intelligence
+- **Power BI**
+- **Power Query**
+- **Dashboard Development**
+- **Interactive Data Visualization**
+
+### AI & Deployment
+- **Streamlit**
+- **OpenAI API**
+- **Groq API**
+- **AI-powered Applications**
+
+### Database & Development Tools
+- **MySQL**
+- **Git & GitHub**
+- **Jupyter Notebook**
+- **VS Code**
 
 ---
 
-## Featured Projects
+## Featured Project
 
-- [Travel Management Dashboard]([https://github.com/MdAreeb01/Travel-Management-Analysis-])  
-  Interactive Power BI dashboard analyzing tourist behavior, demand trends, and revenue.
+### 📊 Customer Churn Prediction & Analytics System
+
+An end-to-end **Machine Learning + Data Analytics application** designed to predict customer churn, classify customer risk, store prediction history, and generate AI-powered retention insights.
+
+**Tech Stack:**  
+`Python` `Pandas` `Scikit-learn` `XGBoost` `Streamlit` `MySQL` `Power BI` `Groq API`
+
+🔗 **[GitHub Repository](https://github.com/MdAreeb01/Customer-Churn-Prediction-System)**
+
+---
+
+## Other Projects
+
+### Travel Management Analysis
+
+Interactive **Power BI dashboard** for analyzing traveler behavior, demand trends, ratings and other travel-related insights.
+
+🔗 **[View Project](https://github.com/MdAreeb01/Travel-Management-Analysis-)**
+
+---
+
+## Areas of Interest
+
+- Data Analytics
+- Machine Learning
+- Python Development
+- Business Intelligence
+- AI-powered Applications
+- SQL & Database Analytics
+
+---
+
+## Education
+
+**B.Tech – Computer Science & Engineering**  
+NRI Institute of Information Science and Technology, Bhopal  
+Affiliated to Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)  
+**CGPA: 7.33/10 | 2020–2024**
+
+---
+
+## Certification
+
+**Data Science Certification**  
+Cybrom Technology Pvt. Ltd., Bhopal | 2026
 
 ---
 
 ## Connect With Me
-- [LinkedIn](www.linkedin.com/in/mohd-areeb-189486286)
-- [Naukri.com](https://www.naukri.com/mnjuser/profile?id=&altresid)
-- Email: areebak12323@gmail.com
 
+📧 **Email:** [areebak12323@gmail.com](mailto:areebak12323@gmail.com)
+
+💼 **LinkedIn:** [Mohd Areeb](https://www.linkedin.com/in/mohd-areeb1201)
+
+---
+
+### Turning Data into Insights, and Insights into Intelligent Applications.
