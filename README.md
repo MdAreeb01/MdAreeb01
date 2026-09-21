@@ -63,6 +63,12 @@ Interactive **Power BI dashboard** for analyzing traveler behavior, demand trend
 
 🔗 **[View Project](https://github.com/MdAreeb01/Travel-Management-Analysis-)**
 
+### Human Resource Analysis
+
+Interactive **Power BI Dashboard** To examine various aspects of the organization's workforce and generate actionable insights that support strategic HR decisions.
+
+🔗 **[View Project](https://github.com/MdAreeb01/Human-Resource-Analysis)**
+
 ---
 
 ## Areas of Interest
@@ -94,10 +100,12 @@ Cybrom Technology Pvt. Ltd., Bhopal | 2026
 
 ## Connect With Me
 
-📧 **Email:** [areebak12323@gmail.com](mailto:areebak12323@gmail.com)
-
-💼 **LinkedIn:** [Mohd Areeb](https://www.linkedin.com/in/mohd-areeb1201)
+<p align="center">
+  <a href="https://its-areebarchives.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mohd-areeb1201">💼 LinkedIn</a> •
+  <a href="mailto:areebak12323@gmail.com">📧 Email</a>
+</p>
 
 ---
 
-### Turning Data into Insights, and Insights into Intelligent Applications.
+##### Turning Data into Insights, and Insights into Intelligent Applications.
