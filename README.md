@@ -52,6 +52,7 @@ An end-to-end **Machine Learning + Data Analytics application** designed to pred
 `Python` `Pandas` `Scikit-learn` `XGBoost` `Streamlit` `MySQL` `Power BI` `Groq API`
 
 🔗 **[GitHub Repository](https://github.com/MdAreeb01/Customer-Churn-Prediction-System)**
+🔗 **[Live Demo](https://retainai-churn-intelligence.streamlit.app/)**
 
 ---
 
